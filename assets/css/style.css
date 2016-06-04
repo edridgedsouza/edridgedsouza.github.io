@@ -56,6 +56,19 @@ a:hover {
 	outline: none;
 }
 
+
+.maintitle{
+	color:white; 
+	font-size:22px; 
+	font-weight:700;
+}
+
+.maintitle:hover{
+	color:#37AFFF; 
+	font-size:22px; 
+	font-weight:700;
+}
+
 .color-white.txt-shadow {
 	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
 }
@@ -223,13 +236,13 @@ About Section
 
 
 /*===========================
-  Work Section
+  Portfolio Section
 ============================ */
 
 #filter {
     padding-top: 20px;
 }
-#section-works {
+#section-portfolio {
     background-color: #37AFFF;
 }
 nav#filter a {
@@ -338,9 +351,9 @@ nav#filter a {
 }
 
 /*===========================
-  --- Services Section----
+  --- Personal Section----
 =========================== */
-#section-services {
+#section-personal {
     background-color: #37AFFF;
 }
 /*===========================
