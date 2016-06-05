@@ -12,6 +12,7 @@
 
 /* ==== Google font ==== */
 @import url(http://fonts.googleapis.com/css?family=Varela+Round);
+@import local(./fonts/googlefont.css);
 /* === fontawesome === */
 @import url('../plugins/font-awesome/font-awesome.css');
 /* ==== animate styles ==== */
