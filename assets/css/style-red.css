@@ -50,6 +50,19 @@ a:hover {
 	text-decoration: none;
 }
 
+
+.maintitle{
+	color:white; 
+	font-size:22px; 
+	font-weight:700;
+}
+
+.maintitle:hover{
+	color:#37AFFF; 
+	font-size:22px; 
+	font-weight:700;
+}
+
 :focus {
 	outline: none;
 }
